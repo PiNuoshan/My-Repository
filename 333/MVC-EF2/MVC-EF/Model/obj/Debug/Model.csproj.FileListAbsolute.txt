@@ -1,0 +1,14 @@
+E:\VSSpace\MVC-EF\Model\bin\Debug\Model.dll
+E:\VSSpace\MVC-EF\Model\bin\Debug\Model.pdb
+E:\VSSpace\MVC-EF\Model\obj\Debug\Model.dll
+E:\VSSpace\MVC-EF\Model\obj\Debug\Model.pdb
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\Model\bin\Debug\Model.dll
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\Model\bin\Debug\Model.pdb
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\Model\obj\Debug\Model.dll
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\Model\obj\Debug\Model.pdb
+D:\MVC-EF2\MVC-EF\Model\bin\Debug\Model.dll
+D:\MVC-EF2\MVC-EF\Model\bin\Debug\Model.pdb
+D:\MVC-EF2\MVC-EF\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+D:\MVC-EF2\MVC-EF\Model\obj\Debug\Model.dll
+D:\MVC-EF2\MVC-EF\Model\obj\Debug\Model.pdb

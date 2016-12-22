@@ -1,0 +1,28 @@
+E:\VSSpace\MVC-EF\DAL\bin\Debug\DAL.dll
+E:\VSSpace\MVC-EF\DAL\bin\Debug\DAL.pdb
+E:\VSSpace\MVC-EF\DAL\bin\Debug\EntityFramework.dll
+E:\VSSpace\MVC-EF\DAL\bin\Debug\Model.dll
+E:\VSSpace\MVC-EF\DAL\bin\Debug\Model.pdb
+E:\VSSpace\MVC-EF\DAL\bin\Debug\EntityFramework.xml
+E:\VSSpace\MVC-EF\DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\VSSpace\MVC-EF\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\VSSpace\MVC-EF\DAL\obj\Debug\DAL.dll
+E:\VSSpace\MVC-EF\DAL\obj\Debug\DAL.pdb
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\DAL\bin\Debug\DAL.dll
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\DAL\bin\Debug\DAL.pdb
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\DAL\bin\Debug\Model.dll
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\DAL\bin\Debug\Model.pdb
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\DAL\bin\Debug\EntityFramework.xml
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\DAL\obj\Debug\DAL.dll
+G:\新建文件夹 (2)\MVC-EF2\MVC-EF\DAL\obj\Debug\DAL.pdb
+D:\MVC-EF2\MVC-EF\DAL\bin\Debug\DAL.dll
+D:\MVC-EF2\MVC-EF\DAL\bin\Debug\DAL.pdb
+D:\MVC-EF2\MVC-EF\DAL\bin\Debug\Model.dll
+D:\MVC-EF2\MVC-EF\DAL\bin\Debug\Model.pdb
+D:\MVC-EF2\MVC-EF\DAL\bin\Debug\EntityFramework.xml
+D:\MVC-EF2\MVC-EF\DAL\bin\Debug\zh-Hans\EntityFramework.resources.dll
+D:\MVC-EF2\MVC-EF\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+D:\MVC-EF2\MVC-EF\DAL\obj\Debug\DAL.dll
+D:\MVC-EF2\MVC-EF\DAL\obj\Debug\DAL.pdb
